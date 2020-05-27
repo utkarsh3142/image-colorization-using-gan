@@ -6,4 +6,5 @@ Tensorflow Pix2Pix tutorial. I have implemented a Pix2Pix model with PatchGAN di
 
 U-Net General Architecture:
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Funet-line-by-line-explanation-9b191c76baf5&psig=AOvVaw2wzOzA-hTM9Iwga7pDa0nh&ust=1590684547223000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOivnvG_1OkCFQAAAAAdAAAAABAD)
+![alt text](https://github.com/utkarsh3142/image-colorization-using-gan/blob/master/unet.png)
+Full Article - https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5
